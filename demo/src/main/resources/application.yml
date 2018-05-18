@@ -1,0 +1,9 @@
+amazonProperties:
+  endpointUrl: https://s3.us-east-2.amazonaws.com
+  bucketName: pocequalsuploadfiles
+  accessKey: AKIAJNCN73EQRUADV3UA
+  secretKey: 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
+folder:
+  destination: /home/vitorgarcia/Pictures/
+
+
